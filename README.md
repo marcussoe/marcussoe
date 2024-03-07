@@ -2,7 +2,7 @@
 
 Sou um estudante de Análise e Desenvolvimento, explorando FrontEnd e BackEnd, em constante busca por aprendizado contínuo e aprimoramento.
 
-<img src="https://i.gifer.com/origin/66/66887a6406dc3d799407b20e076ca578.gif" alt= "meu gif" width="800" height="300">
+<img src="https://i.gifer.com/origin/66/66887a6406dc3d799407b20e076ca578.gif" alt= "meu gif" width="900" height="500">
 
 
 ![Marcusso's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcusso&show_icons=true&theme=radical) 
