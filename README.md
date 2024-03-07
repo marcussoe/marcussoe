@@ -6,7 +6,7 @@ Sou um estudante de Análise e Desenvolvimento, explorando FrontEnd e BackEnd, e
 
 
 ![Marcusso's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcusso&show_icons=true&theme=radical) 
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcusso&theme=blue-green)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=marcussoe&theme=blue-green)
 
 ## Tecnoligias:
 
