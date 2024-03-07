@@ -2,8 +2,9 @@
 
 Sou um estudante de Análise e Desenvolvimento, explorando FrontEnd e BackEnd, em constante busca por aprendizado contínuo e aprimoramento.
 
-<img src='https://i.gifer.com/AjA6.gif' alt= "meu gif">
+// <img src='https://i.gifer.com/AjA6.gif' alt= "meu gif">
 
+<div style="padding-top:56.000%;position:relative;"><iframe src="https://gifer.com/embed/AjA6" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">através de GIFER</a></p>
 
 ![Marcusso's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcusso&show_icons=true&theme=radical) 
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=marcussoe&theme=blue-green)
