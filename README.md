@@ -1,6 +1,6 @@
 ## Ola! Eu sou o Eduardo Marcusso 🖐
 
-    Sou um estudante de Análise e Desenvolvimento, explorando FrontEnd e BackEnd, em constante busca por aprendizado contínuo e aprimoramento.
+Sou um estudante de Análise e Desenvolvimento, explorando FrontEnd e BackEnd, em constante busca por aprendizado contínuo e aprimoramento.
 
 ![gif](https://i.gifer.com/AjA6.gif)
 
