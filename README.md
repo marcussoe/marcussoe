@@ -1,6 +1,6 @@
 ## Bem-vindo ao meu perfil do GitHub!
 
-![Alt Text](https://i.gifer.com/AjA6.gif)
+(https://gifer.com/AjA6)
 
 ## Tecnologias
 - Linguagens de Programação: [HTML, CSS, JS, JAVA, REACT]
