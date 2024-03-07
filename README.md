@@ -2,7 +2,7 @@
 
 Sou um estudante de Análise e Desenvolvimento, explorando FrontEnd e BackEnd, em constante busca por aprendizado contínuo e aprimoramento.
 
-![gf](https://i.gifer.com/AjA6.gif)
+![](https://i.gifer.com/AjA6.gif)
 
 
 ![Marcusso's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcusso&show_icons=true&theme=radical) 
