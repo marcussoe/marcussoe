@@ -1,14 +1,14 @@
 ## Ola! Eu sou o Eduardo Marcusso 🖐
 
-<span > 
-    Sou um estudante de Análise e Desenvolvimento, explorando FrontEnd e BackEnd, em constante busca por aprendizado contínuo e aprimoramento.
+<span align="center"> 
+    Sou um estudante de Análise e Desenvolvimento, explorando FrontEnd e BackEnd, em constante busca por aprendizado<br> contínuo o aprimoramento.
 </span>
 
-<img src="https://i.gifer.com/origin/66/66887a6406dc3d799407b20e076ca578.gif" alt= "meu gif" width="900" height="380">
+<img src="https://i.gifer.com/origin/66/66887a6406dc3d799407b20e076ca578.gif" alt= "meu gif" width="760" height="380">
 
-<div>
+<div >
     <img src="https://github-readme-stats.vercel.app/api?username=marcussoe&show_icons=true&theme=radical" width="500px">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcussoe&theme=blue-green" width="255px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcussoe&theme=blue-green" width="255px"> 
 </div>
 
 
