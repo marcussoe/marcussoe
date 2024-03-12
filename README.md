@@ -6,9 +6,12 @@
 
 <img src="https://i.gifer.com/origin/66/66887a6406dc3d799407b20e076ca578.gif" alt= "meu gif" width="900" height="380">
 
+<img src="https://github-readme-stats.vercel.app/api?username=marcussoe&show_icons=true&theme=radical" width="600">
+ 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcussoe&theme=blue-green" width="300">
 
-![Marcusso's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcusso&show_icons=true&theme=radical) 
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=marcussoe&theme=blue-green)
+
+
 
 ## Tecnoligias:
 
