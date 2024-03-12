@@ -1,7 +1,7 @@
 ## Ola! Eu sou o Eduardo Marcusso 🖐
 
 <span align="center"> 
-    Sou um estudante de Análise e Desenvolvimento, explorando FrontEnd e BackEnd, em constante busca por aprendizado contínuo o aprimoramento.
+    Sou um estudante de Análise e Desenvolvimento, explorando FrontEnd e BackEnd, em constante busca por aprendizado contínuo<br> o aprimoramento.
 </span>
 
 <img src="https://i.gifer.com/origin/66/66887a6406dc3d799407b20e076ca578.gif" alt= "meu gif" width="760" height="380">
