@@ -8,13 +8,8 @@
 
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=marcussoe&show_icons=true&theme=radical" width="500px">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcussoe&theme=blue-green" width="255px">
 </div>
-
-<div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcussoe&theme=blue-green" width="300px">
-</div>
-
-
 
 
 ## Tecnoligias:
