@@ -12,7 +12,7 @@
 </div>
 
 
-## Tecnoligias:
+## Tecnologias:
 
 Back-end:
 
